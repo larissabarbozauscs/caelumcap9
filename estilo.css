@@ -1,5 +1,5 @@
 .sacola {
-    background-image: url(../sacola.png);
+    background-image: url(sacola.png);
     background-repeat: no-repeat;
     background-position: top right;
     font-size: 14px;
@@ -126,7 +126,7 @@ header {
     background-color: #DCDCF5;
 }
 footer {
-    background-image: url(../fundo-rodape.png);
+    background-image: url(fundo-rodape.png);
     clear: both;
     padding: 20px 0;
 }
@@ -137,13 +137,13 @@ footer {
     text-indent: -9999px;
 }
 .social a[href*="facebook.com"] {
-    background-image: url(../facebook.png);
+    background-image: url(facebook.png);
 }
 .social a[href*="twitter.com"] {
-    background-image: url(../twitter.png);
+    background-image: url(twitter.png);
 }
 .social a[href*="plus.google.com"] {
-    background-image: url(../googleplus.png);
+    background-image: url(googleplus.png);
 }
 footer .container {
     position: relative;
